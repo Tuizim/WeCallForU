@@ -1,0 +1,10 @@
+C:\Users\artur.trombim\source\repos\WeCallForU\WeCallForU\bin\Debug\netcoreapp3.1\WeCallForU.deps.json
+C:\Users\artur.trombim\source\repos\WeCallForU\WeCallForU\bin\Debug\netcoreapp3.1\WeCallForU.dll
+C:\Users\artur.trombim\source\repos\WeCallForU\WeCallForU\bin\Debug\netcoreapp3.1\WeCallForU.pdb
+C:\Users\artur.trombim\source\repos\WeCallForU\WeCallForU\obj\Debug\netcoreapp3.1\WeCallForU.csproj.AssemblyReference.cache
+C:\Users\artur.trombim\source\repos\WeCallForU\WeCallForU\obj\Debug\netcoreapp3.1\WeCallForU.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artur.trombim\source\repos\WeCallForU\WeCallForU\obj\Debug\netcoreapp3.1\WeCallForU.AssemblyInfoInputs.cache
+C:\Users\artur.trombim\source\repos\WeCallForU\WeCallForU\obj\Debug\netcoreapp3.1\WeCallForU.AssemblyInfo.cs
+C:\Users\artur.trombim\source\repos\WeCallForU\WeCallForU\obj\Debug\netcoreapp3.1\WeCallForU.csproj.CoreCompileInputs.cache
+C:\Users\artur.trombim\source\repos\WeCallForU\WeCallForU\obj\Debug\netcoreapp3.1\WeCallForU.dll
+C:\Users\artur.trombim\source\repos\WeCallForU\WeCallForU\obj\Debug\netcoreapp3.1\WeCallForU.pdb

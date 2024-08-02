@@ -1,0 +1,17 @@
+C:\Users\artur.trombim\source\repos\WeCallForU\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+C:\Users\artur.trombim\source\repos\WeCallForU\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+C:\Users\artur.trombim\source\repos\WeCallForU\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+C:\Users\artur.trombim\source\repos\WeCallForU\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\artur.trombim\source\repos\WeCallForU\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\artur.trombim\source\repos\WeCallForU\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\artur.trombim\source\repos\WeCallForU\ConsoleApp1\bin\Debug\netcoreapp3.1\WeCallForU.dll
+C:\Users\artur.trombim\source\repos\WeCallForU\ConsoleApp1\bin\Debug\netcoreapp3.1\WeCallForU.pdb
+C:\Users\artur.trombim\source\repos\WeCallForU\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\artur.trombim\source\repos\WeCallForU\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artur.trombim\source\repos\WeCallForU\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\artur.trombim\source\repos\WeCallForU\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+C:\Users\artur.trombim\source\repos\WeCallForU\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\artur.trombim\source\repos\WeCallForU\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CopyComplete
+C:\Users\artur.trombim\source\repos\WeCallForU\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\artur.trombim\source\repos\WeCallForU\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\artur.trombim\source\repos\WeCallForU\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache

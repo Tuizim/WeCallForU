@@ -1,0 +1,94 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "WeCallForU/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/WeCallForU.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WeCallForU.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WeCallForU/1.0.0": {
+      "type": "project",
+      "path": "../WeCallForU/WeCallForU.csproj",
+      "msbuildProject": "../WeCallForU/WeCallForU.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "WeCallForU >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\artur.trombim\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\artur.trombim\\source\\repos\\WeCallForU\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectName": "ConsoleApp1",
+      "projectPath": "C:\\Users\\artur.trombim\\source\\repos\\WeCallForU\\ConsoleApp1\\ConsoleApp1.csproj",
+      "packagesPath": "C:\\Users\\artur.trombim\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\artur.trombim\\source\\repos\\WeCallForU\\ConsoleApp1\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\artur.trombim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\Users\\artur.trombim\\source\\repos\\WeCallForU\\WeCallForU\\WeCallForU.csproj": {
+              "projectPath": "C:\\Users\\artur.trombim\\source\\repos\\WeCallForU\\WeCallForU\\WeCallForU.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
